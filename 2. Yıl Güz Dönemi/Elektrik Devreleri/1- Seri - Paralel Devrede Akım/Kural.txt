@@ -1,0 +1,4 @@
+1- Seri olması için iki ucun birbirine bağlanmış olması lazım ve bu uçtan herhangi    başka bir kablo çıkmamış olması lazım. 
+2- Paralel olması için dirençlerin her iki uçlarının birbirine bağlanmış olması    lazım.
+3- Paralel devrelerde alttaki V ile üstteki V birbirine eşittir.
+4- Voltmetre dirence paralel bağlanır.

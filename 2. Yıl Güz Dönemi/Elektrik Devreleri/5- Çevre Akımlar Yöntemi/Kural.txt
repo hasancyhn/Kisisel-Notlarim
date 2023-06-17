@@ -1,0 +1,6 @@
+1- Çevre akımlar yönteminde göz sayısı kadar denklem olur.
+2- Denklemin sol tarafında gerilimler (V) sağ tarafında ise akımlar (I) yer alır.
+3- Akım oku, gerilime yani V'Ye (-)'den giriyorsa gerilimi toplarız;
+   akım oku gerilime (+)'dan giriyorsa gerilimi çıkartırız. 
+4- Gözlerin ortak direnci varsa o direnç her bir göz için ayrı ayrı çıkartılır veya    toplanır.
+5- Mesela V1 gerilimini hesaplarken cevabımız (-) çıktı bu bize yönünü söyler.
