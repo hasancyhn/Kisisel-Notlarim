@@ -1,5 +1,0 @@
-   Kapalı döngü olarakta adlandırılmaktadır.
-1- İki veya daha fazla gerilim kaynağı seri olarak bağlanırsa toplam gerilim,          kaynakların kutup yönleri dikkate alınarak her bir kaynağın değeri cebirsel         olarak toplanır.
-2- Kirchhof akım yasası; bir noktaya (düğüme) giren akımlar çıkan akımlara eşittir.
-3- Kirchhod gerilim yasası; devre elemanlarının üzerinden geçen gerilimlerin    toplamı, kaynak gerilimlerin toplamına eşittir.
-   Yani V1 +  V2 + ... + Vn = Vs

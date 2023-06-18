@@ -1,4 +1,0 @@
-1- Gerilim kaynağı akım kaynağına dönüştürülürken I=V÷R yapılır ve direnç akıma       paralel olarak bağlanır.
-   Voltaj -'den +'ya gidiyorsa akımın yönü yukarı doğru olacaktır. 
-2- Akım kaynağını gerilim kaynağına dönüştürülürken diğerinin tam tersini uygularız
-   ancak değişmeyen tek şey akımın yönünün belirlenmesi.
